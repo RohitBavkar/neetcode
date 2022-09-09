@@ -23,7 +23,5 @@ Q
 !.idea/libraries/maven_wrapper.xml,8\2\82bbf2404f6f62adcdb1ee5b5b4fdd63b60b5de1
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-P
- src/array/ContainsDuplicate.java,f\c\fcbd42d6f2e2cc0a43cbad3ed54abc4906cdc79d
 E
 src/array/TwoSum.java,e\3\e3252adedf3cdff69eaf08452aa8691babb722fb
