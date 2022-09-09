@@ -6,7 +6,7 @@ import java.util.Arrays;
 public class ValidAnagram {
     public boolean isAnagram(String s, String t) {
 
-        if((s.length() == 1 || t.length() == 1) && s.equalsIgnoreCase(t))
+        if(s.equalsIgnoreCase(t))
             return true;
 
         char []sArray = s.toCharArray();
